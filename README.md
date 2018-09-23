@@ -15,7 +15,6 @@ If you want to read about using Atom or developing packages in Atom, the [Atom F
 The [API reference]() for developing packages is also documented on Atom.io.
 
 # Installing
-__________
 
 ## Prerequisites
 * Git
