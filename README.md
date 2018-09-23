@@ -16,25 +16,25 @@ The [API reference]() for developing packages is also documented on Atom.io.
 
 # Installing
 
-## Prerequisites
+### Prerequisites
 * [Git]()
 
-## macOS
+### macOS
 Download the latest [Atom release]().
 
 Atom will automatically update when a new release is available.
 
-## Windows
+### Windows
 Download the latest [Atom installer](). `AtomSetup.exe` is 32-bit or `atom-x64-windows.zip`(64-bit) from the [release page](). The `.zip` version will not automatically update.
 
 Using [Chocolatey]()? Run `cinst Atom` to install the lates version of Atom.
 
-## Linux
+### Linux
 Atom is only available for 64-bit Linux systems.
 
 Configure your distribution's packges manager to install and update Atom by following the [Linux installing instruction]() in the Flight Manual. You will also find instructions on how to install Atom's official Linux packges without using a packge repository, though you will got automatic updates after installing Atom this way.
 
-## Archive extraction
+### Archive extraction
 An archive is available for people who don't want to install atom as roor.
 
 This version enables you to install multiple Atom versions in parallel. It has been built on Ubuntu 64-bit, but should be compatible whit other Linux distrbutions.
